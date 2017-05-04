@@ -1,0 +1,4 @@
+.h(text="Post",size=2).d()
+.t(text="Message:")
+.q(name="text",value="Enter some text...").x(action="main_menu.php",name="Username",value="UsernameToReplace").i(text="Stream:",name="stream",value="streamName")
+.x(action="main_menu.php",name="Username",value="UsernameToReplace").b(name="cancel",link="main_menu.php")

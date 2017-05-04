@@ -1,0 +1,4 @@
+.h(text="View - Stream Select",size=2).d()
+.t(text="You have access to the following streams:")
+.x(action="view_2.php",name="Username",value="UsernameToReplace").x(name="Counter",value="COUNTTOADD").i(action="view_2.php",text="Enter one below, or if you do not have any access use the addathor option",name="stream",value="streamName")
+.x(action="main_menu.php",name="Username",value="UsernameToReplace").b(name="cancel",link="main_menu.php")

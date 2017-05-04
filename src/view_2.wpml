@@ -1,0 +1,7 @@
+.h(text="View Stream",size=2).d()
+.x(action="view_2.php",name="Username",value="UsernameToReplace").x(name="Counter",value="COUNTTOADD").x(name="stream",value="STREAMTOADD").b(name="previous")
+.x(name="Username",value="UsernameToReplace").x(name="Counter",value="COUNTTOADD").x(name="stream",value="STREAMTOADD").b(name="next")
+.x(name="Username",value="UsernameToReplace").x(name="Counter",value="COUNTTOADD").x(name="stream",value="STREAMTOADD").b(name="Order",link="view_2.php")
+.x(name="Username",value="UsernameToReplace").x(name="Counter",value="COUNTTOADD").x(name="stream",value="STREAMTOADD").b(name="Mark_All")
+.x(name="Username",value="UsernameToReplace").x(name="Counter",value="COUNTTOADD").x(name="stream",value="STREAMTOADD").b(name="Refresh",link="view_2.php")
+.x(action="view_1.php",name="Username",value="UsernameToReplace").b(name="Return to Stream Select",link="view_1.php")
